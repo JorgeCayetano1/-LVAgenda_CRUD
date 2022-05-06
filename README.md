@@ -62,3 +62,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+npm i vue^2.6.12 vue-router^3.0.0 vue-axios^2.0.0 vue-loader^15.9.8
+
+npm install
+
+npm run dev
+
+npm update vue-loader
+
+php arisan make:model [modelo a crear]
+
+php artisan make:migration create_nombretabla_table
+
+php artisan migrate
+
+php artisan make:controller NombreController --resource
